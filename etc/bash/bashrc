@@ -36,6 +36,9 @@ shopt -s histappend
 # the history will halt the shell prompt until it's finished.
 #PROMPT_COMMAND='history -a'
 
+# Editing vi style
+set -o vi
+
 # Change the window title of X terminals 
 case ${TERM} in
 	xterm*|rxvt*|Eterm*|aterm|kterm|gnome*|interix|konsole*)
