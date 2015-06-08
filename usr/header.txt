@@ -1,0 +1,4 @@
+# Copyright 2015 EE-IX GNU/Linux
+# Distributed under the terms of the GNU General Public License v2
+# $Header: $
+

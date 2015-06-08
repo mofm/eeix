@@ -1,0 +1,2 @@
+# Mask flags that correspond to all possible ARCH values.
+amd64
